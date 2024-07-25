@@ -50,7 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/etc/firmware/nvavp_os_eff00000.bin:system/etc/firmware/nvavp_os_eff00000.bin \
     vendor/xiaomi/mocha/proprietary/etc/firmware/nvavp_os_f7e00000.bin:system/etc/firmware/nvavp_os_f7e00000.bin \
     vendor/xiaomi/mocha/proprietary/etc/firmware/nvavp_vid_ucode_alt.bin:system/etc/firmware/nvavp_vid_ucode_alt.bin \
-    vendor/xiaomi/mocha/proprietary/etc/firmware/nvram.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nvram.txt \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/nvram.txt:system/etc/firmware/nvram.txt \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tegra12x_xusb_firmware:system/etc/firmware/tegra12x_xusb_firmware \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tegra_xusb_firmware:system/etc/firmware/tegra_xusb_firmware \
     vendor/xiaomi/mocha/proprietary/etc/firmware/sd8797_uapsta.bin:system/etc/firmware/sd8797_uapsta.bin \
