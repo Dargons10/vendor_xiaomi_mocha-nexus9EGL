@@ -23,11 +23,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/etc/firmware/BCM4350C0.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/BCM4350C0.hcd \
     vendor/xiaomi/mocha/proprietary/etc/firmware/fw_bcm4354.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fw_bcmdhd.bin\
     vendor/xiaomi/mocha/proprietary/etc/firmware/fw_bcm4354_ap.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fw_bcmdhd_apsta.bin \
-    vendor/xiaomi/mocha/proprietary/etc/firmware/bq27520_atl.bqfs:system/etc/firmware/bq27520_atl.bqfs \
-    vendor/xiaomi/mocha/proprietary/etc/firmware/bq27520_lgc.bqfs:system/etc/firmware/bq27520_lgc.bqfs \
-    vendor/xiaomi/mocha/proprietary/etc/firmware/lp5521:system/etc/firmware/lp5521 \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/bq27520_atl.bqfs:$(TARGET_COPY_OUT_VENDOR)/firmware/bq27520_atl.bqfs \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/bq27520_lgc.bqfs:$(TARGET_COPY_OUT_VENDOR)/firmware/bq27520_lgc.bqfs \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/lp5521:$(TARGET_COPY_OUT_VENDOR)/firmware/lp5521 \
     vendor/xiaomi/mocha/proprietary/etc/firmware/marvel_p2p.conf:system/etc/firmware/marvel_p2p.conf \
-    vendor/xiaomi/mocha/proprietary/etc/firmware/nvram.txt:system/etc/firmware/nvram.txt \
+    vendor/xiaomi/mocha/proprietary/etc/firmware/nvram.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nvram.txt \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tfa9890.config:system/etc/firmware/tfa9890.config \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tfa9890_boot.patch:system/etc/firmware/tfa9890_boot.patch \
     vendor/xiaomi/mocha/proprietary/etc/firmware/tfa9890_left.speaker:system/etc/firmware/tfa9890_left.speaker \
