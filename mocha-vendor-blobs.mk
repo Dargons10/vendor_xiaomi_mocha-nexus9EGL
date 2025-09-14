@@ -239,6 +239,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamlog.so:system/vendor/lib/libnvcamlog.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamv4l2.so:system/vendor/lib/libnvcamv4l2.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
-    vendor/xiaomi/mocha/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so
+    vendor/xiaomi/mocha/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
+    vendor/xiaomi/mocha/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd
 
 
