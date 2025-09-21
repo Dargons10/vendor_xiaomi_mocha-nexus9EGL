@@ -16,9 +16,10 @@ PRODUCT_PACKAGES += \
     android.hardware.drm@1.3-service.widevine \
 	liboemcrypto \
 	libwvdrmengine \
-		    libwvhidl \
-		    libstlport
+	libwvhidl \
+	libstlport
 
 # Media_omx
 PRODUCT_PACKAGES += \
-		    libstagefrighthw
+	libstagefrighthw \
+	libnvos

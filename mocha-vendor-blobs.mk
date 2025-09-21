@@ -186,6 +186,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvodm_dtvtuner.so:system/vendor/lib/libnvodm_dtvtuner.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvodm_hdmi.so:system/vendor/lib/libnvodm_hdmi.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvodm_imager.so:system/vendor/lib/libnvodm_imager.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/libnvodm_imager.t124.so:system/vendor/lib/libnvodm_imager.t124.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/liboemcrypto.t124.so:system/vendor/lib/liboemcrypto.t124.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvodm_misc.so:system/vendor/lib/libnvodm_misc.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvodm_query.so:system/vendor/lib/libnvodm_query.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvomx.so:system/vendor/lib/libnvomx.so \
