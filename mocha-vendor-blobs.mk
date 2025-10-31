@@ -229,6 +229,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libgov_ui.so:system/vendor/lib/libgov_ui.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libaffinitydaemon.so:system/vendor/lib/libaffinitydaemon.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libstagefrighthw.so:system/vendor/lib/libstagefrighthw.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/libstagefright_hdcp.so:system/vendor/lib/libstagefright_hdcp.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvgov_ui.so:system/vendor/lib/libnvgov_ui.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libgov_ui.so:system/vendor/lib/libgov_ui.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvaudiofx.so:system/vendor/lib/libnvaudiofx.so \
@@ -239,6 +240,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamerautils.so:system/vendor/lib/libnvcamerautils.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamlog.so:system/vendor/lib/libnvcamlog.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamv4l2.so:system/vendor/lib/libnvcamv4l2.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/libnvhdcp.so:system/vendor/lib/libnvhdcp.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
     vendor/xiaomi/mocha/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd
