@@ -75,6 +75,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libsensors.lsm6db0.so:system/lib/libsensors.lsm6db0.so \
     vendor/xiaomi/mocha/proprietary/lib/libsensors.mpu6515.so:system/lib/libsensors.mpu6515.so \
     vendor/xiaomi/mocha/proprietary/lib/hw/ts.default.so:system/lib/hw/ts.default.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/hw/thermal.tegra.so:system/vendor/lib/hw/thermal.tegra.so \
     vendor/xiaomi/mocha/proprietary/lib/libFaceProc.so:system/lib/libFaceProc.so \
     vendor/xiaomi/mocha/proprietary/lib/libbeautify.so:system/lib/libbeautify.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libbt-client-api.so:system/vendor/lib/libbt-client-api.so \
@@ -228,6 +229,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libgov_ui.so:system/vendor/lib/libgov_ui.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libaffinitydaemon.so:system/vendor/lib/libaffinitydaemon.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libstagefrighthw.so:system/vendor/lib/libstagefrighthw.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/libstagefright_hdcp.so:system/vendor/lib/libstagefright_hdcp.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvgov_ui.so:system/vendor/lib/libnvgov_ui.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libgov_ui.so:system/vendor/lib/libgov_ui.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvaudiofx.so:system/vendor/lib/libnvaudiofx.so \
@@ -238,8 +240,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamerautils.so:system/vendor/lib/libnvcamerautils.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamlog.so:system/vendor/lib/libnvcamlog.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libnvcamv4l2.so:system/vendor/lib/libnvcamv4l2.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/libnvhdcp.so:system/vendor/lib/libnvhdcp.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libstlport.so:system/vendor/lib/libstlport.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
+    vendor/xiaomi/mocha/proprietary/etc/ussrd.conf:system/etc/ussrd.conf \
     vendor/xiaomi/mocha/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd
 
 
