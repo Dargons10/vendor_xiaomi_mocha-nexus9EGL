@@ -141,6 +141,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libgov_il.so:system/vendor/lib/libgov_il.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libgov_spincircle.so:system/vendor/lib/libgov_spincircle.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libgov_tbc.so:system/vendor/lib/libgov_tbc.so \
+    vendor/xiaomi/mocha/proprietary/vendor/lib/libim501.so:$(TARGET_COPY_OUT_VENDOR)/lib/libim501.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libjni-nvwfd-sink.so:system/vendor/lib/libjni-nvwfd-sink.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libjni_nvremote.so:system/vendor/lib/libjni_nvremote.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libjni_nvremoteprotopkg.so:system/vendor/lib/libjni_nvremoteprotopkg.so \
