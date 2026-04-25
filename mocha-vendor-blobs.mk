@@ -80,7 +80,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libsensors.mpu6515.so:system/lib/libsensors.mpu6515.so \
     vendor/xiaomi/mocha/proprietary/lib/hw/ts.default.so:system/lib/hw/ts.default.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/thermal.tegra.so:system/vendor/lib/hw/thermal.tegra.so \
-    vendor/xiaomi/mocha/proprietary/lib/libFaceProc.so:system/lib/libFaceProc.so \
     vendor/xiaomi/mocha/proprietary/lib/libbeautify.so:system/lib/libbeautify.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libbt-client-api.so:system/vendor/lib/libbt-client-api.so \
     vendor/xiaomi/mocha/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
@@ -249,5 +248,4 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libLLVM.so:system/lib/libLLVM.so \
     vendor/xiaomi/mocha/proprietary/etc/ussrd.conf:system/etc/ussrd.conf \
     vendor/xiaomi/mocha/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd
-
 
