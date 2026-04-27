@@ -110,7 +110,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/hdmi_cec.tegra.so:system/vendor/lib/hw/hdmi_cec.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/pbc.tegra.so:system/vendor/lib/hw/pbc.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/memtrack.tegra.so:system/vendor/lib/hw/memtrack.tegra.so \
-    vendor/xiaomi/mocha/proprietary/vendor/lib/hw/vulkan.tegra.so:system/vendor/lib/hw/vulkan.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/keystore.tegra.so:system/vendor/lib/hw/keystore.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/hw/sound_trigger.primary.tegra.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/sound_trigger.primary.tegra.so \
     vendor/xiaomi/mocha/proprietary/vendor/lib/libEGL_perfhud.so:system/vendor/lib/libEGL_perfhud.so \
@@ -248,4 +247,3 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mocha/proprietary/lib/libLLVM.so:system/lib/libLLVM.so \
     vendor/xiaomi/mocha/proprietary/etc/ussrd.conf:system/etc/ussrd.conf \
     vendor/xiaomi/mocha/proprietary/vendor/bin/ussrd:system/vendor/bin/ussrd
-
